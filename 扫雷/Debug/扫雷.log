@@ -1,0 +1,4 @@
+﻿  运行.cpp
+f:\c++实训\扫雷\扫雷\运行.cpp(62): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+f:\c++实训\扫雷\扫雷\运行.cpp(92): warning C4101: “temp”: 未引用的局部变量
+  扫雷.vcxproj -> F:\C++实训\扫雷\Debug\扫雷.exe
